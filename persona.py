@@ -1,6 +1,3 @@
-from __future__ import all_feature_names
-
-
 class Persona:
     def __init__(self, nombre, edad, altura, sexo):
         self._nombre = nombre
